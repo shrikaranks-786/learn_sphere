@@ -117,9 +117,9 @@ GEM
     erubi (1.13.1)
     et-orbi (1.2.11)
       tzinfo
-    ffi (1.17.0-x64-mingw-ucrt)
-    ffi (1.17.0-x86_64-linux-gnu)
-    font-awesome-sass (6.5.2)
+    ffi (1.17.1-x64-mingw-ucrt)
+    ffi (1.17.1-x86_64-linux-gnu)
+    font-awesome-sass (6.7.2)
       sassc (~> 2.0)
     fugit (1.11.1)
       et-orbi (~> 1, >= 1.2.11)
@@ -373,7 +373,7 @@ DEPENDENCIES
   cssbundling-rails
   debug
   devise (~> 4.9)
-  font-awesome-sass (~> 6.5.1)
+  font-awesome-sass (~> 6.7.2)
   groupdate
   image_processing (~> 1.2)
   importmap-rails
